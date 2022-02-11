@@ -68,7 +68,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/arash-rostami-60935722b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://t.me/arash_rostami67"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
+<a href = "https://t.me/a_rostami2400"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
 <!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 
 
