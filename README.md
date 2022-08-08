@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **Hamgam Corprate Group** as **Java Backend Developer**
+- 🔭 I’m currently working at **Hamgam Corporate Group** as **Java Backend Developer**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
