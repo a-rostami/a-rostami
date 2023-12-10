@@ -2,7 +2,7 @@
 
 <h2 align="center">Hello, I'm Arash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<h3 align="center">I'm a passionate Java - Spring Developer</h3>
+<h3 align="center">I'm a Backend developer</h3>
 <br>
 <hr>
 
