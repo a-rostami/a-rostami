@@ -2,21 +2,18 @@
 
 <h2 align="center">Hello, I'm Arash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<h3 align="center">I'm a Backend developer</h3>
+<h3 align="center">I'm a Full Stack Developer</h3>
 <br>
 <hr>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **Hamgam Corporate Group** as **Java Backend Developer**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/a-rostami)**
-
-- 📫 How to reach me **a.rostami2400@gmail.com**
-
-- ⚡ Fun fact **I read books and go to the GYM very often.**
+- 💻 Passionate **Full Stack Developer** with a focus on clean, efficient, and scalable code.
+- 🚀 Launching my own YouTube channel **CodeWithArash**, sharing coding tutorials, tools, and real-world projects.
+- 🤝 Open to **remote opportunities**, **collaboration on impactful projects**, and **freelance/backend roles**.
+- 📂 Check out my work on **[GitHub](https://github.com/a-rostami)**.
+- 📬 Reach me at **a.rostami2400@gmail.com**
+- 🧠 I love learning, teaching, reading books, and hitting the gym consistently.
 
 ## Connect with me:
 <p align="left">
@@ -72,9 +69,6 @@
 <hr>
 <br>
 <br>
-
-<a href="https://github.com/a-rostami/github-readme-activity-graph"><img alt="Arash Rostami's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=a-rostami&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
