@@ -72,19 +72,6 @@
 
 ---
 
-## Experience (recent)
-
-- **Intellectera** — Senior Software Developer (Jul 2023 – Jun 2025)  
-  Java/Spring microservices, API Gateway, JWT auth, PostgreSQL/MongoDB, React/Next.js, CI/CD (Jenkins + Docker), MinIO, WebSockets
-
-- **Hamgam Corporate Groups** — Backend Software Developer (Feb 2021 – Jan 2023)  
-  Java EE/Spring Boot, microservices migration, PostgreSQL optimization, React pages, Kafka messaging, BPMN workflows
-
-- **Maktab Sharif** — Instructor/Mentor (Jul 2023 – Jun 2025)  
-  Java/Spring/SQL/Algorithms, live coding, quizzes & assessments, content design with mentoring team
-
----
-
 ## GitHub stats
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-rostami&hide_border=true" alt="Activity Graph" />
