@@ -69,7 +69,6 @@
 - Secure access with **Spring Security + JWT + RBAC**
 - Designed UI in Figma; built mobile app with **React Native**
 
-> Tip: If you have a public repo for this, put it in the “Pinned” section on GitHub and also add a pinned card below.
 
 ---
 
@@ -87,16 +86,6 @@
 ---
 
 ## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=a-rostami&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-rostami&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=a-rostami&hide_border=true" alt="GitHub Streak" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-rostami&hide_border=true" alt="Activity Graph" />
 </p>
