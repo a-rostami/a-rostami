@@ -1,81 +1,113 @@
-<a href="#"><img width="100%" height="auto" src="Arash-Cover.png" height="175px"/></a>
-
-<h2 align="center">Hello, I'm Arash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-
-<h3 align="center">I'm a Full Stack Developer</h3>
-<br>
-<hr>
-
-## 🙋‍♂️ About Me
-
-- 💻 Passionate **Full Stack Developer** with a focus on clean, efficient, and scalable code.
-- 🚀 Launching my own YouTube channel **CodeWithArash**, sharing coding tutorials, tools, and real-world projects.
-- 🤝 Open to **remote opportunities**, **collaboration on impactful projects**, and **freelance/backend roles**.
-- 📂 Check out my work on **[GitHub](https://github.com/a-rostami)**.
-- 📬 Reach me at **a.rostami2400@gmail.com**
-- 🧠 I love learning, teaching, reading books, and hitting the gym consistently.
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/arash-rostami-60935722b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://t.me/a_rostami2400"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
+<!-- Hero -->
+<p align="center">
+  <img src="Arash-Cover.png" alt="Arash Cover" width="100%" />
 </p>
 
-<br>
-<hr>
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
+<h1 align="center">Hi, I'm Arash 👋</h1>
+<p align="center">
+  Senior Software Developer / Team Lead • Java/Spring Boot • Cloud-native Microservices • React/Next.js
 </p>
 
-
-
-<br/>
-
-<p align="left">
-    <a href="https://github.com/a-rostami/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arash Rostami's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=a-rostami&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/arash-rostami-60935722b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arash%20Rostami-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/a-rostami">
+    <img src="https://img.shields.io/badge/GitHub-a--rostami-181717?logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:a.rostami2400@gmail.com">
+    <img src="https://img.shields.io/badge/Email-a.rostami2400%40gmail.com-EA4335?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/a_rostami2400">
+    <img src="https://img.shields.io/badge/Telegram-a__rostami2400-26A5E4?logo=telegram&logoColor=white" />
+  </a>
 </p>
 
-<br>
-<hr>
+---
 
-## 📊 My Github Stats
+## About me
 
-  <br/>
-    <a href="https://github.com/a-rostami/github-readme-stats"><img alt="Arash Rostami's Github Stats" src="https://github-readme-stats.vercel.app/api?username=a-rostami&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/a-rostami/github-readme-stats"><img alt="Arash Rostami's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-rostami&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+- 💻 Senior Software Developer / Team Lead building **scalable microservices** and **cloud-native systems** with **Java/Spring Boot**, plus modern UIs with **React/Next.js**
+- 🔐 Strong focus on **secure-by-design** development (OAuth/JWT, Spring Security), and production reliability (CI/CD, containers)
+- 🧠 I enjoy mentoring & teaching (Java, Spring, SQL, algorithms)
+- 🚀 Building **CodeWithArash** on YouTube (tutorials + real-world projects)
+- 🤝 Open to **remote roles**, **freelance/backend work**, and collaborations on impactful products
 
+---
 
-<br/>
-<br/>
-<br>
-<hr>
-<br>
-<br>
-<br/>
-<br/>
+## Impact highlights
 
+- ⚙️ Refactored a monolith into **30+ DDD-based microservices**
+- 🚀 Improved PostgreSQL query performance by **~40%** (including JSONB optimization)
+- 📣 Built high-throughput services handling **1B+ records** and **10K+ concurrent notifications**
+- 🧑‍🏫 Delivered 15+ hours/week of training; mentored **60+** learners
 
+---
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=a-rostami">
-</a>
-<a href="https://github.com/a-rostami?tab=followers"><img src="https://img.shields.io/github/followers/a-rostami?label=Followers&style=social" alt="GitHub Badge"></a>
+## Tech stack
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,postgres,mongodb,docker,aws,jenkins,kafka,git,github,tailwind,figma&perline=8"
+    alt="Skills"
+  />
+</p>
+
+**Backend:** Spring Boot, Spring Cloud, Microservices, CQRS, Event Sourcing, SAGA, gRPC, REST, Kafka  
+**Security:** OAuth2, JWT, API Gateway (Apache APISIX)  
+**Data:** PostgreSQL, MongoDB, SQL performance tuning, JPA/Hibernate  
+**Cloud/DevOps:** Docker, CI/CD (Jenkins), AWS, Cloud-native patterns  
+**Frontend:** React, Next.js, Tailwind CSS (plus React Native for mobile)
+
+---
+
+## Featured project
+
+### 🗣️ Langoosh — AI language learning platform
+- Microservices backend with **Spring Boot + Spring Cloud**
+- AI features: **TTS**, **STT**, and dynamic response generation
+- Secure access with **Spring Security + JWT + RBAC**
+- Designed UI in Figma; built mobile app with **React Native**
+
+> Tip: If you have a public repo for this, put it in the “Pinned” section on GitHub and also add a pinned card below.
+
+---
+
+## Experience (recent)
+
+- **Intellectera** — Senior Software Developer (Jul 2023 – Jun 2025)  
+  Java/Spring microservices, API Gateway, JWT auth, PostgreSQL/MongoDB, React/Next.js, CI/CD (Jenkins + Docker), MinIO, WebSockets
+
+- **Hamgam Corporate Groups** — Backend Software Developer (Feb 2021 – Jan 2023)  
+  Java EE/Spring Boot, microservices migration, PostgreSQL optimization, React pages, Kafka messaging, BPMN workflows
+
+- **Maktab Sharif** — Instructor/Mentor (Jul 2023 – Jun 2025)  
+  Java/Spring/SQL/Algorithms, live coding, quizzes & assessments, content design with mentoring team
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=a-rostami&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-rostami&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=a-rostami&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-rostami&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## Visitors & followers
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=a-rostami&label=Profile%20views" alt="Profile Views" />
+  <a href="https://github.com/a-rostami?tab=followers">
+    <img src="https://img.shields.io/github/followers/a-rostami?label=Followers&style=social" alt="Followers" />
+  </a>
+</p>
