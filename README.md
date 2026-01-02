@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://codewitharash.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-CodeWithArash-000000?logo=medium&logoColor=white" alt="CodeWithArash on Medium" />
+  </a>
+</p>
+
 <!-- Hero -->
 <p align="center">
   <img src="Arash-Cover.png" alt="Arash Cover" width="100%" />
@@ -24,6 +30,12 @@
 </p>
 
 ---
+<br>
+<p align="center">
+  <a href="https://codewitharash.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-CodeWithArash-000000?logo=medium&logoColor=white" alt="CodeWithArash on Medium" />
+  </a>
+</p>
 
 ## About me
 
