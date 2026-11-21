@@ -5,9 +5,9 @@
 </p> -->
 
 <!-- Hero -->
-<p align="center">
+<!-- <p align="center">
   <img src="Arash-Cover.png" alt="Arash Cover" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">Hi, I'm Arash 👋</h1>
 <p align="center">
