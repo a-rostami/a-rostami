@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://codewitharash.medium.com/">
     <img src="https://img.shields.io/badge/Medium-CodeWithArash-000000?logo=medium&logoColor=white" alt="CodeWithArash on Medium" />
   </a>
-</p>
+</p> -->
 
 <!-- Hero -->
 <p align="center">
